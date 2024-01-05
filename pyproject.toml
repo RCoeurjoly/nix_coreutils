@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "nix-cpp-safety"
+name = "nix-coreutils"
 version = "0.1.0"
 description = ""
 authors = ["Roland Coeurjoly <rolandcoeurjoly@gmail.com>"]
 packages = [
-    { include = "nix-cpp-safety" }
+    { include = "nix-coreutils" }
 ]
 
 [tool.poetry.dependencies]
